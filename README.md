@@ -1,6 +1,6 @@
 
 ### oi 👋🙂🇧🇷
-Estudante de graduação em matemática industrial, na Universidade Federal do Ceará(UFC)
+Bacharel em matemática industrial pela Universidade Federal do Ceará(UFC) e mestrando em modelagem e métodos quantitativos pela UFC.
 
 <div>
 <div style="display: inline_block"><br>
